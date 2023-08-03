@@ -9,17 +9,17 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Insert Image as Attachment": "Insertar imagen como datos adjuntos"
+			"Insert Image as Attachment": "Inserir imatge com a dades adjuntes"
 		},
 		"package": {
-			"cleanInvalidImageAttachment.title": "Limpiar referencia de datos adjuntos de imagen no válida",
-			"description": "Proporciona compatibilidad básica para abrir y leer los archivos .ipynb del bloc de notas de Jupyter.",
-			"displayName": "Compatibilidad con .ipynb",
-			"ipynb.pasteImagesAsAttachments.enabled": "Habilite o deshabilite el pegado de imágenes en celdas de Markdown en archivos de bloc de notas de ipynb. Las imágenes pegadas se insertan como datos adjuntos en la celda.",
-			"markdownAttachmentRenderer.displayName": "Representador de datos adjuntos de celda ipynb de Markdown",
+			"cleanInvalidImageAttachment.title": "Netejar la referència de dades adjuntes d'imatge no vàlida",
+			"description": "Proporciona compatibilitat bàsica per obrir i llegir els fitxers .ipynb del bloc de notes de Jupyter.",
+			"displayName": "Compatibilitat amb .ipynb",
+			"ipynb.pasteImagesAsAttachments.enabled": "Habiliteu o deshabiliteu l'enganxat d'imatges a les cel·les de Markdown en fitxers de bloc de notes d'ipynb. Les imatges enganxades s'insereixen com a dades adjuntes a la cel·la.",
+			"markdownAttachmentRenderer.displayName": "Representador de dades adjuntes de cel·la ipynb de Markdown",
 			"newUntitledIpynb.shortTitle": "Jupyter Notebook",
-			"newUntitledIpynb.title": "Nuevo Jupyter Notebook",
-			"openIpynbInNotebookEditor.title": "Abrir el archivo IPYNB en el editor de Notebook"
+			"newUntitledIpynb.title": "Nou Jupyter Notebook",
+			"openIpynbInNotebookEditor.title": "Obrir el fitxer IPYNB a l'editor de Notebook"
 		}
 	}
 }
