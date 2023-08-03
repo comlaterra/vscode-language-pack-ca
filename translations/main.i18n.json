@@ -5970,7 +5970,7 @@
 			"published": "Publicat",
 			"publisher": "Editor",
 			"rating": "Valoració",
-			"repository": "Dipòsit",
+			"repository": "Repositori",
 			"resources": "Recursos d'extensió",
 			"runtimeStatus": "Estat d'execució",
 			"runtimeStatus description": "Estat de l'entorn d'execució de l'extensió",
@@ -6006,7 +6006,7 @@
 			"no": "No",
 			"recommended": "Voleu instal·lar el {0} recomanat per a {1}?",
 			"show recommendations": "Mostra les recomanacions",
-			"this repository": "aquest dipòsit"
+			"this repository": "aquest repositori"
 		},
 		"vs/workbench/contrib/extensions/browser/extensions.contribution": {
 			"InstallFromVSIX": "Instal·la des del VSIX...",
@@ -8927,7 +8927,7 @@
 			"no open repo": "No s'ha registrat cap proveïdor de control del codi font.",
 			"no open repo in an untrusted workspace": "Cap dels proveïdors de control d'origen registrats treballa en mode restringit.",
 			"open in terminal": "Obre en un terminal",
-			"providersVisible": "Controla quants dipòsits són visibles a la secció Repositoris de control d'origen. Establiu-ho a 0, per a poder redimensionar manualment la vista.",
+			"providersVisible": "Controla quants repositoris són visibles a la secció Repositoris de control d'origen. Establiu-ho a 0, per a poder redimensionar manualment la vista.",
 			"repositoriesSortOrder": "Controla l'ordenació dels repositoris a la vista de repositoris de control de codi font.",
 			"scm accept": "Control d'origen: Accepta l'entrada",
 			"scm view next commit": "Control d'origen: Visualitza la publicació següent",
@@ -8967,11 +8967,11 @@
 			"scmConfigurationTitle": "Control d'origen",
 			"showActionButton": "Controla si es pot mostrar un botó d'acció a la vista Control d'origen.",
 			"source control": "Control d'origen",
-			"source control repositories": "Dipòsits de control d'origen",
+			"source control repositories": "Repositoris de control d'origen",
 			"sourceControlViewIcon": "Mostra la icona de la vista de control d'origen."
 		},
 		"vs/workbench/contrib/scm/browser/scmRepositoriesViewPane": {
-			"scm": "Dipòsits de control d'origen"
+			"scm": "Repositori de control d'origen"
 		},
 		"vs/workbench/contrib/scm/browser/scmViewPane": {
 			"collapse all": "Contrau tots els repositoris",
@@ -11419,7 +11419,7 @@
 			"root element label": "Gestiona la confiança en l'espai de treball",
 			"selectTrustedUri": "Seleccioneu la carpeta a confiar",
 			"shieldIcon": "Icona de confiança de l'espai de treball ió al bàner.",
-			"trustAll": ".es confiarà en tots els dipòsits a {0}.",
+			"trustAll": ".es confiarà en tots els repositoris a {0}.",
 			"trustButton": "Confiança",
 			"trustMessage": "Confia en els autors de tots els fitxers de la carpeta actual o del seu pare '{0}'.",
 			"trustOrg": "El .ou confiarà en tots els repositoris i bifurcacions per sota de '{0}' a {1}.",
