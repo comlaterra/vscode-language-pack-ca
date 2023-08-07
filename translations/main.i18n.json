@@ -5077,7 +5077,7 @@
 			"editBreakpoints": "Edita els punts de ruptura",
 			"editInlineBreakpointOnColumn": "Edita el punt de ruptura inclòs a la columna {0}",
 			"editLineBreakpoint": "Edita el punt de ruptura de línia",
-			"enable": "EnActiva",
+			"enable": "Activa",
 			"enableBreakpoint": "Activa {0}",
 			"enableBreakpointOnLine": "Activa el punt de ruptura de línia",
 			"enableBreakpoints": "Activa el punt de ruptura inclòs a la columna {0}",
@@ -5088,7 +5088,7 @@
 			"removeBreakpoints": "Elimina els punts de ruptura",
 			"removeInlineBreakpointOnColumn": "Elimina el punt de ruptura inclòs a la columna {0}",
 			"removeLineBreakpoint": "Elimina el punt de ruptura de línia",
-			"removeLogPoint": "veSuprimeix {0}",
+			"removeLogPoint": "Suprimeix {0}",
 			"runToLine": "Executa a la línia"
 		},
 		"vs/workbench/contrib/debug/browser/breakpointsView": {
@@ -8842,7 +8842,7 @@
 			"action.copyToClipboard": "Copia l'enllaç del navegador al porta-retalls",
 			"action.doNotShowAgain": "No ho tornis a mostrar",
 			"action.showExtension": "Mostra l'extensió",
-			"enable": "EnActiva",
+			"enable": "Activa",
 			"initialize.progress.title": "[S'està cercant un túnel remot](command:{0})",
 			"manage.placeholder": "Seleccioneu una ordre a invocar",
 			"manage.showLog": "Mostra el registre",
