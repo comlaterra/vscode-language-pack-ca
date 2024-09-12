@@ -9,7 +9,7 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Proporciona resaltado de sintaxis para archivos con la extensión .log.",
+			"description": "Proporciona ressaltat de sintaxi per a fitxers amb l'extensió .log.",
 			"displayName": "LOG"
 		}
 	}

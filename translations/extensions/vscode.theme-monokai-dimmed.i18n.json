@@ -9,9 +9,9 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Tema atenuado Monokai para Visual Studio Code",
-			"displayName": "Tema Monokai atenuado",
-			"themeLabel": "Monokai atenuado"
+			"description": "Tema atenuat Monokai per a Visual Studio Code",
+			"displayName": "Tema Monokai atenuat",
+			"themeLabel": "Monokai atenuat"
 		}
 	}
 }

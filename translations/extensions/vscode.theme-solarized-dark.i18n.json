@@ -9,9 +9,9 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Tema oscuro Solarized para Visual Studio Code",
-			"displayName": "Tema oscuro Solarized ",
-			"themeLabel": "Oscuro Solarized "
+			"description": "Tema fosc Solarized per a Visual Studio Code",
+			"displayName": "Tema fosc Solarized",
+			"themeLabel": "Fosc Solarized"
 		}
 	}
 }

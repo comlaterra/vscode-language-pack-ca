@@ -9,22 +9,22 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Branch name": "Nombre de rama",
-			"Choose a URL to clone from.": "Elija una dirección URL desde la que se va a clonar.",
-			"No remote repositories found.": "No se encontraron repositorios remotos.",
-			"Provide repository URL": "Proporcionar la dirección URL del repositorio",
-			"Provide repository URL or pick a repository source.": "Proporcione la dirección URL del repositorio o seleccione un origen de repositorio.",
-			"Repository name": "Nombre del repositorio",
-			"Repository name (type to search)": "Nombre del repositorio (escribir para buscar)",
+			"Branch name": "Nom de la branca",
+			"Choose a URL to clone from.": "Trieu una adreça URL des de la qual es clonarà.",
+			"No remote repositories found.": "No s'han trobat repositoris remots.",
+			"Provide repository URL": "Proporcioneu l'adreça URL del repositori",
+			"Provide repository URL or pick a repository source.": "Proporcioneu l'adreça URL del repositori o seleccioneu una font de repositori.",
+			"Repository name": "Nom del repositori",
+			"Repository name (type to search)": "Nom del repositori (escriviu per cercar)",
 			"URL": "URL",
-			"recently opened": "abiertos recientemente",
-			"remote sources": "orígenes remotos",
+			"recently opened": "oberts recentment",
+			"remote sources": "fonts remotes",
 			"{0} Error: {1}": "{0} Error: {1}"
 		},
 		"package": {
-			"command.api.getRemoteSources": "Obtener orígenes remotos",
-			"description": "Selectores y contribuciones estáticas de Git.",
-			"displayName": "Git Base"
+			"command.api.getRemoteSources": "Obtenir fonts remotes",
+			"description": "Selectors i contribucions estàtiques de Git.",
+			"displayName": "Base de Git"
 		}
 	}
 }

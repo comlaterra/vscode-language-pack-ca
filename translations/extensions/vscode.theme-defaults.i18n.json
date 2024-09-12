@@ -9,17 +9,17 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"darkColorThemeLabel": "Oscuro (Visual Studio)",
-			"darkModernThemeLabel": "Moderno oscuro",
-			"darkPlusColorThemeLabel": "Oscuro+",
-			"description": "Temas claro y oscuro predeterminados de Visual Studio",
-			"displayName": "Temas por defecto",
-			"hcColorThemeLabel": "Contraste alto oscuro",
-			"lightColorThemeLabel": "Claro (Visual Studio)",
-			"lightHcColorThemeLabel": "Contraste alto claro",
-			"lightModernThemeLabel": "Moderno claro",
-			"lightPlusColorThemeLabel": "Claro+",
-			"minimalIconThemeLabel": "Mínimo (Visual Studio Code)"
+			"darkColorThemeLabel": "Fosc (Visual Studio)",
+			"darkModernThemeLabel": "Modern fosc",
+			"darkPlusColorThemeLabel": "Fosc+",
+			"description": "Temes clar i fosc predeterminats de Visual Studio",
+			"displayName": "Temes per defecte",
+			"hcColorThemeLabel": "Alt contrast fosc",
+			"lightColorThemeLabel": "Clar (Visual Studio)",
+			"lightHcColorThemeLabel": "Alt contrast clar",
+			"lightModernThemeLabel": "Modern clar",
+			"lightPlusColorThemeLabel": "Clar+",
+			"minimalIconThemeLabel": "Mínim (Visual Studio Code)"
 		}
 	}
 }

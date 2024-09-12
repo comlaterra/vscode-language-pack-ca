@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Proporciona resaltado de sintaxis, coincidencia de corchetes y fragmentos de código en archivos HTML.",
-			"displayName": "Conceptos básicos de lenguaje HTML"
+			"description": "Proporciona ressaltat de sintaxi, coincidència de claudàtors i fragments de codi en fitxers HTML.",
+			"displayName": "Conceptes bàsics del llenguatge HTML"
 		}
 	}
 }

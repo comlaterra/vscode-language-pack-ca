@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Proporciona representadores de salida básicos para Notebooks",
-			"displayName": "Representadores de salida del bloc de notas integrados"
+			"description": "Proporciona renderitzadors de sortida bàsics per a Notebooks",
+			"displayName": "Renderitzadors de sortida del quadern integrats"
 		}
 	}
 }

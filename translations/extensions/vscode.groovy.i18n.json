@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Proporciona fragmentos de código, resaltado de sintaxis y correspondencia de corchetes en archivos de Groovy.",
-			"displayName": "Conceptos básicos del lenguaje Groovy"
+			"description": "Proporciona fragments de codi, ressaltat de sintaxi i correspondència de claudàtors en fitxers de Groovy.",
+			"displayName": "Conceptes bàsics del llenguatge Groovy"
 		}
 	}
 }

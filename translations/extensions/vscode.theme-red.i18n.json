@@ -9,9 +9,9 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Tema rojo para Visual Studio Code",
-			"displayName": "Tema rojo",
-			"themeLabel": "Rojo"
+			"description": "Tema vermell per a Visual Studio Code",
+			"displayName": "Tema vermell",
+			"themeLabel": "Vermell"
 		}
 	}
 }

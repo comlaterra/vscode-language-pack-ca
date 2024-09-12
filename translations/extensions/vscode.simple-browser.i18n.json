@@ -9,20 +9,20 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Back": "Atrás",
-			"Enter url to visit": "Escribir la dirección URL que se va a visitar",
-			"Focus Lock": "Bloqueo del foco",
-			"Forward": "Reenviar",
-			"Open in browser": "Abrir en el explorador",
-			"Open in simple browser": "Abrir en el explorador simple",
-			"Reload": "Volver a cargar",
-			"Simple Browser": "Explorador simple",
+			"Back": "Enrere",
+			"Enter url to visit": "Escriu l'adreça URL que vols visitar",
+			"Focus Lock": "Bloqueig del focus",
+			"Forward": "Endavant",
+			"Open in browser": "Obrir en el navegador",
+			"Open in simple browser": "Obrir en el navegador simple",
+			"Reload": "Tornar a carregar",
+			"Simple Browser": "Navegador simple",
 			"https://example.com": "https://example.com"
 		},
 		"package": {
-			"configuration.focusLockIndicator.enabled.description": "Habilita o deshabilita el indicador flotante que se muestra cuando se tiene el foco en el explorador sencillo.",
-			"description": "Vista web integrada muy básica para mostrar contenido web.",
-			"displayName": "Explorador simple"
+			"configuration.focusLockIndicator.enabled.description": "Habilita o deshabilita l'indicador flotant que es mostra quan es té el focus en el navegador senzill.",
+			"description": "Vista web integrada molt bàsica per mostrar contingut web.",
+			"displayName": "Navegador simple"
 		}
 	}
 }

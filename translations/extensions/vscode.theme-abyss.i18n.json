@@ -9,7 +9,7 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Tema Abyss para Visual Studio Code",
+			"description": "Tema Abyss per a Visual Studio Code",
 			"displayName": "Tema Abyss",
 			"themeLabel": "Abyss"
 		}

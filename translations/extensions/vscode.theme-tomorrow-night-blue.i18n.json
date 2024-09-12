@@ -9,7 +9,7 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Tema Tomorrow Night Blue para Visual Studio Code",
+			"description": "Tema Tomorrow Night Blue per a Visual Studio Code",
 			"displayName": "Tema Tomorrow Night Blue",
 			"themeLabel": "Tomorrow Night Blue"
 		}

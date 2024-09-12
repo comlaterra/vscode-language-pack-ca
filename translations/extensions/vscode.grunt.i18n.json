@@ -9,17 +9,17 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"Auto detecting Grunt for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "Error al detectar automáticamente Grunt para la carpeta {0}:: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown",
-			"Go to output": "Ir a la salida",
-			"Problem finding grunt tasks. See the output for more information.": "Problema para encontrar tareas grunt. Consulte la salida para obtener más información."
+			"Auto detecting Grunt for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown": "Error al detectar automàticament Grunt per a la carpeta {0}:: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown",
+			"Go to output": "Anar a la sortida",
+			"Problem finding grunt tasks. See the output for more information.": "Problema per trobar tasques grunt. Consulteu la sortida per obtenir més informació."
 		},
 		"package": {
-			"config.grunt.autoDetect": "Controla la habilitación de la detección de tareas de Gulp. La detección de tareas de Gulp puede hacer que se ejecuten archivos en cualquier espacio de trabajo abierto.",
-			"description": "Extensión que agrega funcionalidad de Grunt a VS Code.",
-			"displayName": "Funcionalidad de Grunt para VS Code",
-			"grunt.taskDefinition.args.description": "Argumentos de línea de comandos para pasar a la tarea de Grunt",
-			"grunt.taskDefinition.file.description": "El archivo de Grunt que proporciona la tarea. Se puede omitir.",
-			"grunt.taskDefinition.type.description": "La tarea de Grunt que se va a personalizar."
+			"config.grunt.autoDetect": "Controla l'habilitació de la detecció de tasques de Gulp. La detecció de tasques de Gulp pot fer que s'executin fitxers en qualsevol espai de treball obert.",
+			"description": "Extensió que afegeix funcionalitat de Grunt a VS Code.",
+			"displayName": "Funcionalitat de Grunt per a VS Code",
+			"grunt.taskDefinition.args.description": "Arguments de línia de comandes per passar a la tasca de Grunt",
+			"grunt.taskDefinition.file.description": "El fitxer de Grunt que proporciona la tasca. Es pot ometre.",
+			"grunt.taskDefinition.type.description": "La tasca de Grunt que s'ha de personalitzar."
 		}
 	}
 }

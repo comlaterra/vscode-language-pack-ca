@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Proporciona resaltado de sintaxis y correspondencia de corchetes en archivos de R.",
-			"displayName": "Conceptos básicos del lenguaje R"
+			"description": "Proporciona ressaltat de sintaxi i correspondència de claudàtors en fitxers de R.",
+			"displayName": "Conceptes bàsics del llenguatge R"
 		}
 	}
 }

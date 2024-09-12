@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Proporciona resaltado de sintaxis y correspondencia de corchetes en archivos de Docker.",
-			"displayName": "Conceptos básicos del lenguaje Docker"
+			"description": "Proporciona ressaltat de sintaxi i correspondència de claudàtors en fitxers Docker.",
+			"displayName": "Conceptes bàsics del llenguatge Docker"
 		}
 	}
 }

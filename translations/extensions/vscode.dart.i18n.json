@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Proporciona resaltado de sintaxis y coincidencia de período de tiempo en archivos dardo.",
-			"displayName": "Datos básicos del lenguaje de dardos"
+			"description": "Proporciona ressaltat de sintaxi i coincidència de període de temps en fitxers dard.",
+			"displayName": "Conceptes bàsics del llenguatge de dards"
 		}
 	}
 }

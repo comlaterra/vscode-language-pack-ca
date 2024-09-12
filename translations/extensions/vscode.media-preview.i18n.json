@@ -9,15 +9,15 @@
 	"version": "1.0.0",
 	"contents": {
 		"bundle": {
-			"An error occurred while loading the audio file.": "Se ha producido un error al cargar el archivo.",
-			"An error occurred while loading the image.": "Se ha producido un error al cargar la imagen.",
-			"An error occurred while loading the video file.": "Se ha producido un error al cargar el archivo de video.",
-			"Image Binary Size": "Tamaño binario de la imagen",
-			"Image Size": "Tamaño de la imagen",
-			"Image Zoom": "Zoom de imagen",
-			"Open file using VS Code's standard text/binary editor?": "¿Abrir archivo con el editor de texto/binario estándar de VS Code?",
-			"Select zoom level": "Seleccionar nivel de zoom",
-			"Whole Image": "Imagen completa",
+			"An error occurred while loading the audio file.": "S'ha produït un error en carregar l'arxiu d'àudio.",
+			"An error occurred while loading the image.": "S'ha produït un error en carregar la imatge.",
+			"An error occurred while loading the video file.": "S'ha produït un error en carregar l'arxiu de vídeo.",
+			"Image Binary Size": "Mida binària de la imatge",
+			"Image Size": "Mida de la imatge",
+			"Image Zoom": "Zoom de la imatge",
+			"Open file using VS Code's standard text/binary editor?": "Obrir l'arxiu amb l'editor de text/binari estàndard de VS Code?",
+			"Select zoom level": "Seleccionar nivell de zoom",
+			"Whole Image": "Imatge completa",
 			"{0}B": "{0} B",
 			"{0}GB": "{0} GB",
 			"{0}KB": "{0} KB",
@@ -26,15 +26,15 @@
 		},
 		"package": {
 			"command.copyImage": "Copiar",
-			"command.zoomIn": "Acercar",
-			"command.zoomOut": "Alejar",
-			"customEditor.audioPreview.displayName": "Vista previa de audio",
-			"customEditor.imagePreview.displayName": "Vista previa de la imagen",
-			"customEditor.videoPreview.displayName": "Vista previa del vídeo",
-			"description": "Proporciona vistas previas integradas de VS Code para imágenes, audio y vídeo",
-			"displayName": "Vista previa de medios",
-			"videoPreviewerAutoPlay": "Empiece a reproducir vídeos al silenciar automáticamente.",
-			"videoPreviewerLoop": "Repita los vídeos de nuevo automáticamente."
+			"command.zoomIn": "Apropar",
+			"command.zoomOut": "Allunyar",
+			"customEditor.audioPreview.displayName": "Vista prèvia d'àudio",
+			"customEditor.imagePreview.displayName": "Vista prèvia de la imatge",
+			"customEditor.videoPreview.displayName": "Vista prèvia del vídeo",
+			"description": "Proporciona vistes prèvies integrades de VS Code per a imatges, àudio i vídeo",
+			"displayName": "Vista prèvia de mitjans",
+			"videoPreviewerAutoPlay": "Comenceu a reproduir vídeos en silenciar automàticament.",
+			"videoPreviewerLoop": "Repetiu els vídeos de nou automàticament."
 		}
 	}
 }

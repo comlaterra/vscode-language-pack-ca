@@ -9,8 +9,8 @@
 	"version": "1.0.0",
 	"contents": {
 		"package": {
-			"description": "Proporciona resaltado de sintaxis, correspondencia de corchetes y plegado de código en archivos de Python.",
-			"displayName": "Conceptos básicos del lenguaje Python"
+			"description": "Proporciona ressaltat de sintaxi, correspondència de claudàtors i plegat de codi en fitxers de Python.",
+			"displayName": "Conceptes bàsics del llenguatge Python"
 		}
 	}
 }
